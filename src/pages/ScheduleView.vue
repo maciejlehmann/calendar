@@ -1,0 +1,3 @@
+<template>
+    SCHEDULE VIEW
+</template>
